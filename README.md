@@ -5,6 +5,12 @@ This repository contains solutions to 20 data analysis questions using Pandas on
 
 ---
 
+## 📹 Explanation Video  
+For a detailed walkthrough, watch the video:  
+[**YouTube Explanation**](https://www.youtube.com/watch?v=agbgpsbbaTQ)
+
+---
+
 ### **Question 1: Import Pandas and Read the CSV File**
 **Code and Explanation:**
 ```python
