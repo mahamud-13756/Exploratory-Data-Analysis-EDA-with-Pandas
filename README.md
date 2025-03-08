@@ -22,7 +22,7 @@ df.head(5)
 ```
 - **Explanation:** Shows the first 5 rows of the dataset to inspect its structure.  
 **Output:**  
-![Head Output](https://drive.google.com/file/d/1Tr1EplwNTGaxESLFvO0D9fIwmZb8bRHK/view?usp=sharing)
+![Head Output]([https://drive.google.com/file/d/1Tr1EplwNTGaxESLFvO0D9fIwmZb8bRHK/view?usp=sharing](https://drive.google.com/file/d/1Tr1EplwNTGaxESLFvO0D9fIwmZb8bRHK/view?usp=drive_link))
 
 
 ---
